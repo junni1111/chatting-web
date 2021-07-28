@@ -69,6 +69,18 @@
   animation: modal-bg-show 0.3s;
 }
 
+.modal__input_look_pw_btn {
+  width: 15px;
+  height: 15px;
+  border: 0;
+  background-color: #fff;
+}
+
+.modal__input_look_pw_btn__img {
+  width: 15px;
+  height: 15px;
+}
+
 @keyframes modal-show {
   from {
     opacity: 0;
