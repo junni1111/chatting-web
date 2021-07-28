@@ -48,7 +48,8 @@
 	padding:15px 15px 30px;
 	border-radius:3px;
 	border:1px solid #F7E98D;
-	font:13px Tahoma, cursive;
+	font:13px;
+  font-family: '맑은 고딕';
 	transition:box-shadow 0.5s ease;
 	box-shadow:0 4px 6px rgba(0,0,0,0.1);
 	background:linear-gradient(#F9EFAF, #F7E98D);
